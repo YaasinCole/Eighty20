@@ -1,4 +1,5 @@
 Eighty20 Callenge
+
 This project is for the Eighty20 challenge, it allows a user to register , login and create their favourite pokemon and logout.
 - This project uses JWT Tokens for authenticating users , and only authenticated users will be able to add a Pokemon of their choice
 
